@@ -1,0 +1,1 @@
+root -l -b -q plotPostNuisance_combine.C("fitDiagnosticsDir/fitDiagnostics_C_run2_fit_CRonly_result_pullsNimpactsrun2.root","pullsANDimpacts/pullsNimpactsrun2/","C_run2_fit_CRonly_result_pullsNimpactsrun2")

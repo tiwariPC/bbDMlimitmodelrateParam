@@ -1,0 +1,267 @@
+ <<< Combine >>> 
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Channel sr_bin1 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binsr_bin1
+Poisson cut-off: 100
+Processes excluded for sums: 2HDMa_Ma100_MChi1_MA600_tb35_st_0p7
+============================================================
+Bin        Contents        Error           Notes                         
+0          8187.163576     90.482946       total sum                     
+0          7935.770739     89.082943       excluding marked processes    
+0          7936.000000     89.084230       Unweighted events, alpha=1.031649
+  => Total parameter prop_binsr_bin1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel sr_bin2 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binsr_bin2
+Poisson cut-off: 100
+Processes excluded for sums: 2HDMa_Ma100_MChi1_MA600_tb35_st_0p7
+============================================================
+Bin        Contents        Error           Notes                         
+0          4086.708272     63.927367       total sum                     
+0          3965.809903     62.974677       excluding marked processes    
+0          3966.000000     62.976186       Unweighted events, alpha=1.030436
+  => Total parameter prop_binsr_bin2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel sr_bin3 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binsr_bin3
+Poisson cut-off: 100
+Processes excluded for sums: 2HDMa_Ma100_MChi1_MA600_tb35_st_0p7
+============================================================
+Bin        Contents        Error           Notes                         
+0          860.995957      29.342733       total sum                     
+0          838.432750      28.955703       excluding marked processes    
+0          838.000000      28.948230       Unweighted events, alpha=1.027441
+  => Total parameter prop_binsr_bin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel sr_bin4 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binsr_bin4
+Poisson cut-off: 100
+Processes excluded for sums: 2HDMa_Ma100_MChi1_MA600_tb35_st_0p7
+============================================================
+Bin        Contents        Error           Notes                         
+0          140.280699      11.844015       total sum                     
+0          137.844978      11.740740       excluding marked processes    
+0          138.000000      11.747340       Unweighted events, alpha=1.016527
+  => Total parameter prop_binsr_bin4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zee_bin1 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzee_bin1
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          9407.391232     96.991707       total sum                     
+0          9407.000000     96.989690       Unweighted events, alpha=1.000042
+  => Total parameter prop_binzee_bin1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zee_bin2 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzee_bin2
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          5878.302585     76.670089       total sum                     
+0          5878.000000     76.668116       Unweighted events, alpha=1.000051
+  => Total parameter prop_binzee_bin2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zee_bin3 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzee_bin3
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          1678.472750     40.969168       total sum                     
+0          1678.000000     40.963398       Unweighted events, alpha=1.000282
+  => Total parameter prop_binzee_bin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zee_bin4 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzee_bin4
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          423.895236      20.588716       total sum                     
+0          424.000000      20.591260       Unweighted events, alpha=0.999753
+  => Total parameter prop_binzee_bin4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zmumu_bin1 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzmumu_bin1
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          13760.950786    117.307079      total sum                     
+0          13761.000000    117.307289      Unweighted events, alpha=0.999996
+  => Total parameter prop_binzmumu_bin1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zmumu_bin2 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzmumu_bin2
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          8556.307518     92.500311       total sum                     
+0          8556.000000     92.498649       Unweighted events, alpha=1.000036
+  => Total parameter prop_binzmumu_bin2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zmumu_bin3 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzmumu_bin3
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          2414.692315     49.139519       total sum                     
+0          2415.000000     49.142650       Unweighted events, alpha=0.999873
+  => Total parameter prop_binzmumu_bin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel zmumu_bin4 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binzmumu_bin4
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          545.516389      23.356292       total sum                     
+0          546.000000      23.366643       Unweighted events, alpha=0.999114
+  => Total parameter prop_binzmumu_bin4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel we_bin1 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwe_bin1
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          1169.760157     34.201757       total sum                     
+0          1170.000000     34.205263       Unweighted events, alpha=0.999795
+  => Total parameter prop_binwe_bin1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel we_bin2 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwe_bin2
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          730.797299      27.033263       total sum                     
+0          731.000000      27.037012       Unweighted events, alpha=0.999723
+  => Total parameter prop_binwe_bin2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel we_bin3 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwe_bin3
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          198.303281      14.082020       total sum                     
+0          198.000000      14.071247       Unweighted events, alpha=1.001532
+  => Total parameter prop_binwe_bin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel we_bin4 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwe_bin4
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          40.645251       6.375363        total sum                     
+0          41.000000       6.403124        Unweighted events, alpha=0.991348
+  => Number of weighted events is below poisson threshold
+    diboson              1.143450        1.069322                                      
+                         1.000000        1.000000        Unweighted events, alpha=1.143450
+      => Product of prop_binwe_bin4_bin0_diboson[1.00,0.00,30.85] and const [1.0000] to be poisson constrained
+  ----------------------------------------------------------
+    tt                   4.777181        2.185676                                      
+                         5.000000        2.236068        Unweighted events, alpha=0.955436
+      => Product of prop_binwe_bin4_bin0_tt[5.00,0.01,41.33] and const [0.2000] to be poisson constrained
+  ----------------------------------------------------------
+    singlet              2.448230        1.564682                                      
+                         2.000000        1.414214        Unweighted events, alpha=1.224115
+      => Product of prop_binwe_bin4_bin0_singlet[2.00,0.00,33.79] and const [0.5000] to be poisson constrained
+  ----------------------------------------------------------
+    wjets                31.367767       5.600693                                      
+                         31.000000       5.567764        Unweighted events, alpha=1.011863
+      => Product of prop_binwe_bin4_bin0_wjets[31.00,6.23,88.79] and const [0.0323] to be poisson constrained
+  ----------------------------------------------------------
+    smh                  0.516133        0.718424                                      
+      => Poisson not viable, prop_binwe_bin4_bin0_smh[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    dyjets               0.392491        0.626491                                      
+      => Poisson not viable, prop_binwe_bin4_bin0_dyjets[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+------------------------------------------------------------
+Channel wmu_bin1 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwmu_bin1
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          1665.177649     40.806588       total sum                     
+0          1665.000000     40.804412       Unweighted events, alpha=1.000107
+  => Total parameter prop_binwmu_bin1_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel wmu_bin2 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwmu_bin2
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          988.892917      31.446668       total sum                     
+0          989.000000      31.448370       Unweighted events, alpha=0.999892
+  => Total parameter prop_binwmu_bin2_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel wmu_bin3 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwmu_bin3
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          271.400558      16.474239       total sum                     
+0          271.000000      16.462078       Unweighted events, alpha=1.001478
+  => Total parameter prop_binwmu_bin3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel wmu_bin4 will use autoMCStats with settings: event-threshold=100, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_binwmu_bin4
+Poisson cut-off: 100
+============================================================
+Bin        Contents        Error           Notes                         
+0          52.253142       7.228633        total sum                     
+0          52.000000       7.211103        Unweighted events, alpha=1.004868
+  => Number of weighted events is below poisson threshold
+    diboson              0.919199        0.958749                                      
+      => Poisson not viable, prop_binwmu_bin4_bin0_diboson[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    tt                   5.874980        2.423836                                      
+                         6.000000        2.449490        Unweighted events, alpha=0.979163
+      => Product of prop_binwmu_bin4_bin0_tt[6.00,0.03,43.60] and const [0.1667] to be poisson constrained
+  ----------------------------------------------------------
+    singlet              3.476927        1.864652                                      
+                         3.000000        1.732051        Unweighted events, alpha=1.158976
+      => Product of prop_binwmu_bin4_bin0_singlet[3.00,0.00,36.46] and const [0.3333] to be poisson constrained
+  ----------------------------------------------------------
+    wjets                40.871723       6.393100                                      
+                         41.000000       6.403124        Unweighted events, alpha=0.996871
+      => Product of prop_binwmu_bin4_bin0_wjets[41.00,10.66,104.43] and const [0.0244] to be poisson constrained
+  ----------------------------------------------------------
+    smh                  0.560367        0.748577                                      
+      => Poisson not viable, prop_binwmu_bin4_bin0_smh[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+    dyjets               0.549944        0.741582                                      
+      => Poisson not viable, prop_binwmu_bin4_bin0_dyjets[0.00,-7.00,7.00] to be gaussian constrained
+  ----------------------------------------------------------
+------------------------------------------------------------
+SimNLL created with 20 channels, 7 generic constraints, 61 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 20 channels, 7 generic constraints, 61 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 20 channels, 7 generic constraints, 61 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 2.3533
+Expected  2.5%: r < 0.5054
+Expected 16.0%: r < 0.6742
+Expected 50.0%: r < 0.9375
+Expected 84.0%: r < 1.3149
+Expected 97.5%: r < 1.7649
+
+Done in 0.18 min (cpu), 0.18 min (real)
